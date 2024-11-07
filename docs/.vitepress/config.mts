@@ -13,7 +13,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'ES 版本',
+        text: 'ES Version',
         items: [
           { text: 'ES5-2009', link: '/ecmascript/es5-2009' },
           { text: 'ES6-2015', link: '/ecmascript/es6-2015' },
