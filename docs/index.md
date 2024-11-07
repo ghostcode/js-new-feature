@@ -5,14 +5,11 @@ layout: home
 hero:
   name: "JS New Feature"
   text: "JS New Feature"
-  tagline: My great project tagline
+  tagline: Make JS Great Again
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: New Feature
+      link: /ecmascript/es6-2015
 
 features:
   - title: Feature A
